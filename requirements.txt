@@ -1,0 +1,7 @@
+# alarm.py uses Python standard library only.
+# No external packages required.
+#
+# Python >= 3.8 recommended.
+#
+# Optional (for richer audio on Linux):
+#   sudo apt install pulseaudio-utils   # provides paplay
